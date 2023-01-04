@@ -1,4 +1,11 @@
 # Bandai-Namco-Research-Motiondataset
+
+## IS Changes
+Directory `utils.custom` created to hold additional files made for this repository.
+
+Initial readme contents follows from this point on.
+-----------
+
 This repository provides motion datasets collected by Bandai Namco Research Inc. 
 
 Find [here](README_Japanese.md) for a READEME in Japanese.
